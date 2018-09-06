@@ -112,6 +112,7 @@
 ### The Financial Statements
 
 - financial statements report past performance.
+- Watch out for estimates.
 
 - each financial statement has a different purpose:
   - the balance sheet lists a company's assets, liabilities, and shareholders' equity
@@ -125,6 +126,140 @@
 
 - The footnotes will further explain issues in statements, the auditor's report or the management letter.
 
-# The Financial Statements
+## Descriptions of Financial statements
 
-- Watch out for estimates.
+- Definitions:
+  - __Balance sheet__: lists assets, liabilities, and shareholders' equity. It is a statement of the company's current financial condition.
+    - __Assets__: items that will bring future economic benefit. Includes: cash, accounts receivable, and the cost of things bought (land, equipment...)
+    - __Liabilities__: amounts owed to __creditors__ generally requiring future cash payments
+    - __Shareholders' equity__: comprised of retained earnings and common stock.
+      - __Retained earnings__: the amount of money earned and re-invested in a business.
+      - __Common stock__: the initial investment of a company's owners.
+  - __Income statement__: shows the revenues and expenses and the resulting net income.
+    - __Revenues__: assets generated from sales and services
+    - __Expenses__: asset outflows (costs) associated with selling products and servies.
+    - __Net income__ = revenue - expenses
+      - aka profit or earnings
+      - High income is the ultimate goal.
+  - __Statement of shareholders' equity__: describes changes in shareholders equity.
+    - __Dividends__: assets paid to owners as a return for initial investment. These are subtracted from retained earnings on the balance sheet.
+  - __Statement of cash flows__: summarizes the increases and decreases in cash over a period of time. (like a balance sheet, but just cash). Activities that affect this can be Operating, investing or financing. Gives insight into management strategies.
+    - __Operating activities__: activities associated with products and services
+    - __Investing activities__: purchase and sale of assets (like land or equipment).
+    - __Financing activities__: cash collections and payments related to capital sources.
+      - think lending or borrowing, collections or payments.
+
+## Analysis of Financial Statements
+
+- __Solvency__: The ability to generate enough cash to pay off debts.
+- __Earning power__: the ability to grow and provide a substantial return to owners.
+
+- Ratios:
+  - (net income/revenues) tells how much of the revenue turns into profit.
+  - (liabilities/ assets) tells if the company has enough assets to pay off their debts.
+  - (dividends/ net income) tells how much investors get from investing in the company.
+
+## Which Form of Investment: Debt or Equity?
+
+- Debt investment: loans
+- Equity investment: becoming an owner
+- They come with different risks and returns. Also different levels of attention you should pay.
+
+### A Debt Investment
+
+- __debt investments__: investing by loaning money
+  - requires a __loan contract__ stating:
+    - the **maturity date** when the loan must be paid back
+    - the **annual interest** to be paid each year
+    - the **collateral** assets you will acquire if the person you lend to **defaults** on the loan (doesn't pay it back)
+    - **debt restrictions** placed on the borrower requiring them to do certain things to protect your investment.
+
+- Before making a debt investment check if:
+  - The company's statement of cash flows. Cash is how you will be repayed.
+  - The value of the collateral is fair.
+    - Remember, assets are recorded on the balance sheet at __historical cost__, the amount paid when they were acquired. This is often not a fair estimate of their current value and shouldn't be used for collateral purposes.
+  - The company has other debts.
+
+### An Equity Investment
+
+- __equity investments__ entail purchasing __equity__ in a company and becoming a __shareholder__
+
+- Often shareholders care most about dividends, which are paid on the order of the board of directors.
+  - __Board of directors__: a group of people elected by shareholders to represent their interests.
+    - meets quarterly to: set company policies, declare dividends, and review performance and compensation of the company's upper management (who they can fire/hire).
+
+- Before making an equity investments check if:
+  - The company can make money and will make money in the future
+    - Make sure they have cash (statement of cash flows)
+    - Make sure they pay debts (balance sheet)
+    - make sure their investments are sound ()
+    - The income statement tells if they're making money. This can also tell you if the management is competent.
+  - The company has dividends (statement of cash flows).
+  - The board is good at managing the company
+
+## A Decision is made, but Important Questions Remain
+
+- Review:
+  - Solvency, earnings power, return on investment.
+  - audit report, management letter, financial statements and footnotes.
+  - dividends, payments to creditors.
+
+# The Economic Environment in which Financial Reports are Prepared and Used
+
+- Accurate financial statements inform economic decisions and prevent economic crisis.
+- __compensation contracts__: how much you're going to pay someone and what they're going to do.
+
+- roles of financial accounting:
+  - help debt and equity investors evaluate management's past business decisions and predict future performance
+  - present numbers (e.g., net income) used in debt and compensation contracts that influence management behavior.
+
+- __corporate governance__: the mechanisms encouraging management and auditors to act in the interest of- and report in god faith to- the shareholders.
+
+- factors that encourage managers and auditors to act professionally:
+  - __professional reputation__: leads to future business
+  - __legal liability__: penalizes bad behavior
+  - __ethics__: doing the right thing.
+
+- This section discusses the the reporting process and corporate governance.
+
+## Reporting Entities and Industries
+
+- __profit-seaking entities__ companies not seaking profit prepare financial statements.
+  - we only cover for-profit companies
+
+- __subsidiaries__ of a company provide their own financial statements which are combined into __consolidated financial statements__ by their parent company.
+
+- Companies are often grouped into __industries__ based on the nature of their operations.
+  - 3 basic categories of industry: manufacturing, retailing, services and (general and financial).
+  - industry classifications are provided by the Standard Industrial Classification (SIC) Index, which assigns a 1 to 4 digit code to each industry. The more digits in the code, the more specific the industry.
+  - Different parts of the balance sheet are important in different industries.
+    - for example, liabilities are important for banks.
+  - Industry standards can be used as a benchmark.
+
+# Corporate Governance
+
+- corporate governance mechanisms ensure management acts in the shareholder's interest and report to them in good faith.
+
+- components of corporate governanace:
+  - financial information users and capital markets
+  - contracts between management and debt and equity investors
+  - financial reporting regulations and standards
+  - independent auditors
+  - boards of directors and audit committees
+  - internal controls ensuring compliance
+  - legal liability
+  - professional reputation
+  - ethics
+
+- corporate governance and financial statements are symbiotic.
+
+## Financial Information Users and Capital Markets
+
+- Users of financial statements can be divided into 3 groups:
+  - equity investors
+  - debt investors
+  - others (including management)
+
+### Equity Investors
+
+- 
