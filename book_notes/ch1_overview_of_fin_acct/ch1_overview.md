@@ -135,6 +135,7 @@
     - __Shareholders' equity__: comprised of retained earnings and common stock.
       - __Retained earnings__: the amount of money earned and re-invested in a business.
       - __Common stock__: the initial investment of a company's owners.
+    - quiz1 definition of balance sheet: This financial statement is structured as assets equals liabilities plus owners’ equity, and it measures the financial condition of a company at a specific point in time.
   - __Income statement__: shows the revenues and expenses and the resulting net income.
     - __Revenues__: assets generated from sales and services
     - __Expenses__: asset outflows (costs) associated with selling products and servies.
@@ -142,6 +143,8 @@
       - aka profit or earnings
       - High income is the ultimate goal.
   - __Statement of shareholders' equity__: describes changes in shareholders equity.
+    - aka statement of owners' equity
+    - quiz 1 defines as: This financial statement explains the changes in the investments made by the owners from the beginning to the end of a specific period of time and includes changes in both the direct investments made by the owners and the profits allowed to remain in the company.
     - __Dividends__: assets paid to owners as a return for initial investment. These are subtracted from retained earnings on the balance sheet.
   - __Statement of cash flows__: summarizes the increases and decreases in cash over a period of time. (like a balance sheet, but just cash). Activities that affect this can be Operating, investing or financing. Gives insight into management strategies.
     - __Operating activities__: activities associated with products and services
@@ -261,5 +264,146 @@
   - others (including management)
 
 ### Equity Investors
+
+- Equity investors have 2 rights:
+  - oversee management
+    - usually reserved for investors who own a large portion of the company.
+  - a fair share of profit
+
+- Equity investors (and their representatives) use financial information to evaluate management's decisions.
+
+### Debt Investors (Creditors)
+
+- See the section "A Debt Investment" for what a loan is.
+- The debt contract is pretty much the only way creditors can influence a company.
+- Creditors use financial statements to estimate the likelihood of default.
+  - If the chances of default go up, the need for collateral increases, interest rates become steeper and terms of the debt contract become harsher.
+
+### Management and Other Financial Statement Users
+
+- Management uses financial statements of:
+  - competitors to assess their strategy
+  - potential partners (suppliers, customers...) to assess their trustworthiness
+  - themselves to determine dividend payments, set company policies, and guide business decisions.
+
+- other users:
+  - government (FTC) for determining regulations.
+  - public utilities for determining rates
+  - labor uninos for determining fair wages and other benefits.
+
+### Capital Markets
+
+- __equity securities__ are stocks
+
+- __debt securities__
+  - __bonds__ can be owned by individuals and institutions
+  - loans are usually held by banks
+
+- security prices (market price) are determined by changes in expectations.
+  - these expectations are often set by financial statements
+
+- prices of securities are sometimes considered a measure of management's performance, but can be determined by other factors too.
+
+## Contracts: Debt Covenants and management Compensation
+
+- Debt restriction (see "A Debt investment") contracts take 2 forms:
+  - __Debt covenants__: 
+    - included in debt contracts
+    - Often requires management maintain a certain level of financial performance or position to help ensure management is able to repay debts. Violating these requirements (technical default) normally gives the debtholder the right to demand the entire debt be repaid immediately, often leading to more costly debt terms.
+  - __Management compensation contracts__:
+    - require management pay be based on certain net income or stock price goals, to incentivise management's actions toward a clear goal.
+
+- The debt restrictions discussed rely heavily on financial statements.
+
+## Independent Auditors
+
+- Usually firms hire from "the Big 4" accounting firms when performing audits.
+
+- Audits result in a 3 paragraph audit report (aka audit opinion) stating:
+  1. paragraph 1: Financial statements and internal controls were audited, but responsibility for preparing financial reports and the effectiveness of the controls rests with management
+  2. Paragraph 2: the audit complies with __Public Company Accounting Oversight Board (PCAOB)__ standards.
+  3. Paragraph 3: financial statements complie with GAAP
+
+- If the audit report doesn't say the above, there are problems.
+
+## Board of Directors and Audit Committee
+
+- see "An Equity Investment" for what a Board of Directors does.
+  - The board is usually composed of company officers and nonmanagement representatives.
+
+- __audit committee__: an outside (nonmanagement) subcommittee that handles audits.
+  - Appointed by the board.
+  - works with management to choose an auditor
+  - monitors audits to ensure thorough, objective and independent audits.s
+
+- "opinion shopping" for auditors is prohibited by the SEC.
+  - If a company disagrees with the auditor, they can state why on the Form 8K. They shouldn't find a different auditor who will say what they want.
+
+## Sarbanes-Oxley Act
+
+- __Sarbanes-Oxley Act__: an act to enforce stricter corporate governance and restore confidence in the U.S financial reporting system.
+  - passed in 2002
+  - changes were made to: the responsibilities of management, financial disclosure, independence and effectiveness of auditors and audit committeees, and oversight of public companies and auditors.
+  - new responsibilities
+    - management must review and sign off on financial reports certifying their completeness, correctness, and fairness.
+    - more internal controls to ensure complete and accurate financial records.
+    - management must file a report on internal controls, which must be certified by an external auditor
+
+## Legal Liability
+
+- legal responsibilities:
+  - management must act on behalf of shareholders and report in good faith
+  - Auditors must conduct a thorough and independent audit.
+
+- If management or auditors fail these legal responsibilites, they can be sued.
+  - think Laventhol & Horwath or Arthur Andersen
+
+## Professional Reputation and Ethics
+
+- Ethics is an asset!
+- In the long run, ethics is in the best interest of managers, shareholders and auditors.
+- Ethical companies and auditors are sued less and valued more.
+
+## Financial Reporting Regulations and Standards
+
+- __Securities and Exchange Commission (SEC)__ created to enforce:
+  - the Securities Act of 1933 requiring companies that raise capital through public equity and debt exchanges to file a registration statement with the SEC
+  - the Securities Exchange Act of 1934 requiring public companies file:
+    - a __Form 10-k__ (audited financial reports annually)
+    - a __Form 10-Q__ (unaudited quarterly financial statements)
+    - provide audited financial statements to stake holders
+    - Non-U.S companies must file a __Form 20-F__
+    You can find these through the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system at www.sec.gov.
+
+- __annual reports__, include:
+  - audited balance sheets for the past 2 years
+  - audited income, shareholders equity and cashflows for the past 3 years.
+  - A letter to shareholders
+  - a description of the business
+  - discussion and analysis of the company's financial condition and performance
+  - footnotes
+  - selected quarterly data
+  - Summaries of select information for the last 5 years
+  - information about each of the company's major segments
+  - A letter from management stating its reporting responsibilities
+  - A letter from the company's outside (external) auditors stating financial statements were prepared according to GAAP
+  - A list of board members and executive officers
+
+## Generally Accepted Accounting Principles
+
+- The SEC requires U.S. GAAP
+
+- __U.S. Generally Accepted Accounting Principles (U.S. GAAP)__ for U.S. companies.
+  - Established by the __Financial Accounting Standards Board (FASB)__
+
+- __International Financial Reporting Standards (IFRS)__ for non-U.S. companines
+  - Established by the __International Accounting Standards Board (IASB)__
+
+- This book uses GAAP to refer to U.S GAAP or IFRS.
+- GAAP lends credibility to financial statements. 
+- Some argue the costs of accounting standards out-weigh the benefits.
+  - The principles often become political.
+
+# International Perspective: Financial Statement Users Need to be Bilingual
 
 - 
