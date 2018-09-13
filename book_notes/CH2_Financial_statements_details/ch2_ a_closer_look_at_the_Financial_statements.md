@@ -218,4 +218,58 @@
 
 ## The Statement of cash flows
 
-- 
+- __Statement of cash flows__: describes the in and out flows of cash for a company resulting in an overal cash balance.
+
+- 3 categories of cash flows:
+  - Operating
+  - investing
+  - financing
+
+### Cash Flows from Operating Activities
+
+- __operating activities__: cash flows from acquisition and sale of a company's products and services.
+- Similar to expenses and revenues on the income statement, but the statement of cashflows only cares about cash. (discussed later)
+
+### Cash Flows from Investing Activities
+
+- __Investing activities__: cash flows from purchase and sale of assets.
+  - Includes: investments and long-ived assets like land.
+
+### Cash Flows from Financing Activities
+
+- __financing activities__: cash flows from a company's two sources of outside capital: liabilities and owner investments.
+  - Cash flows can result from short or long-term financing activities (like paying a loan's principal, buying and selling stock and paying dividends...)
+
+## The Statement of Shareholders' Equity
+
+- The __statement of shareholders' equity__ explains changes in shareholders' equity accounts over a period of time.
+  - shareholders' equity increases when shareholders contribute capital through buying issued stock or from reinvesting dividends to retained earnings.
+  - Shareholders' equity decreases when shareholders don't reinvest dividends, or when the company makes treasury stock purchases (stock buy-backs)
+
+## Financial Statements As a Package and Five Fundamental Performance Metrics
+
+- You need to understand all of the financial statements to have a full picture of the company.
+  - other statements describe the balance sheet, because the balance sheet is just a point in time
+  - The statement of shareholders' equity is often directly referenced on the balance sheet because equity investments are revenues and expenses.
+  - Net income on the income statement affects the statement of shareholder's equity because shareholders own the net income. They can withdraw their dividends, and net income goes down, or reinvest and it goes up.
+
+- Transactions will affect at least 2 statements, and often all 4.
+
+## Using the Financial Statement Package to Compute Five Fundamental Metrics of Performance
+
+- 5 important questions to ask about a company:
+  - How profitable is it?
+    - see balance sheet for revenues vs expenses
+    - see income statement for net income
+  - How large an investment in assets was required to make those profits?
+    - see the balance sheet's assets vs revenues.
+  - Where did the assets come from, or how were they financed?
+    - 2 sources:
+      - creditor investments (debt): 
+      - shareholders (equity): see statement of shareholders' equity
+    - see the balance sheet for both
+  - How much cash did they generate through operating activities and how was it managed?
+    - see the statement of cash flows
+  - What happened to the investment made by the shareholders and how large a return was generated for the shareholders on that investment?
+    - see the statement of shareholder's equity and income statement
+    - look at: dividends, net income, equity issurance and treasury stock purchases.
