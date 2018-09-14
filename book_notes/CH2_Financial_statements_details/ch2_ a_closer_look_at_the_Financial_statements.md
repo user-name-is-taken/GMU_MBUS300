@@ -278,3 +278,5 @@
 ## questions:
 
 - notes payable vs loans vs the other one
+  - notes payable is an account, loans isn't
+  - long-term liabilities is a heading, not an account
