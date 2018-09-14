@@ -273,3 +273,8 @@
   - What happened to the investment made by the shareholders and how large a return was generated for the shareholders on that investment?
     - see the statement of shareholder's equity and income statement
     - look at: dividends, net income, equity issurance and treasury stock purchases.
+
+
+## questions:
+
+- notes payable vs loans vs the other one
