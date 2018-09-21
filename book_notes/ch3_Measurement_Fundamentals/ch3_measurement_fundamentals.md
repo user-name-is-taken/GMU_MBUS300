@@ -101,7 +101,7 @@
     - recorded at min(*net book value*, present value)
       - *net book value* = original cost - amortization (or depreciation)
   - Long-term notes receivable and long-term liabilities
-    - recorded at presetn value
+    - recorded at present value
   - Shareholders' equity
     - Technically not valued on these valuation bases.
     - Can be understood as how much the company is worth (assets - liabilities)
@@ -149,4 +149,59 @@
 
 ### The principles of Matching an Revenue Recognition
 
-- 
+- __Matching principle__: efforts (expenses) of a given period should be matched against the results (revenues) from them.
+
+- __Revenue recognition__: provide guidelines for how expenses and revenues should be matched
+  - for example, how an asset should be depreciated according to the revenues it generates
+  - 4 criteria must be met before revenue can be included in the income statement:
+    - The company has completed a significant portion of the production and sales effort
+    - The amount of revenu can be objectively measured
+    - In the case of physical goods, the title has transferred; in the case of a service, the service has been performed
+    - the eventual collection of the cash is reasonably assured
+  - both GAAP ate IFRS recognize revenue on completion of the earnings process, but GAAP provides specific rules for different industries while IFRS gives management more leeway
+
+### the principle of consistency
+
+- __consistency__: a company should use one set of methods for all periods to make statements understandable.
+- Note, different companies often use different methods. These different methods are necessary because different companies have different situations.
+
+- Both management and users of financial statements require consistency:
+  - management so the company doesn't loose credibility and because a chosen method comes with a framework for reporting.
+  - users so the statements can be understood and are reliable
+
+- When companies environments change enough that an independent auditor can verify different reporting methods are necessary, they can switch.
+  - Switches are rarely granted
+  - If a company switches, they must disclose it in the footnotes and the auditor's report.
+  - Companies usually have to restate their previous financial statements according to the new method to maintain comparability.
+  - The FASB has guidelines on switching methods.
+
+## Two Exceptions to the Basic principles: Materiality and Conservatism
+
+- You can depart from the 4 measurement principles if:
+  - The departure is immaterial.
+  - The departure errs on the conservative side.
+
+### Materiality
+
+- __Material__: dollar amounts large enough that "there is substantial likelihood that a reasonable investor would attach importance in determining whether to purchase a security" (U.S. Supreme court)
+  - immaterial = not material
+  - note, this definition is a bit vague so be conservative. If you're unsure, it's material.
+
+- Immaterial transactions can be reported with the most expedient, least costly reporting method; regardless of the method suggested by the principles of accounting measurement.
+- The auditor's report should say "the financial statements are free of material misstatements."
+- note: materiality and consistency are similar in GAAP and IFRS
+
+### Conservatism
+
+- __conservatism__: *when in doubt*, financial statements should understate assets, overstate liabilities, accelerate the recognition of losses, and delay the recognition of gains.
+  - only when in doubt.
+    - Some foreign countries encourage conservatism even when there's objective and verifiable evidence (ex the Dutch company Unilever)
+  - lower-of-cost-or-market reporting of balance sheet assets is an example of conservatism.
+
+- If your company goes bankrupt, conservatism will protect you from lawsuits.
+
+## International Perspective: Fundamental Differences between U.S. GAAP and IFRS
+
+- GAAP and IFRS have the same assumptions, principles and exceptions but apply them differently in different situations.
+  - IFRS is principles based and GAAP is rules based.
+  - GAAP uses lower-of-cost-or-market while IFRS uses fair market value for long-term assets.
