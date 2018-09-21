@@ -83,7 +83,7 @@
 ## The Auditor's Report, the Management Letter, and the Financial Statements.
 
 - Important information:
-  - __audotor's report__: a short letter written by the audotor that describes the activities of the audit and comments on the financial position and operations of the company.
+  - __audotor's report__: a short letter written by the auditor that describes the activities of the audit and comments on the financial position and operations of the company.
   - __management letter__: a letter, signed by the CEO, taking responsibility for the figures on the statements
   - a balance sheet
   - an income statement
@@ -100,7 +100,7 @@
 
 - Concerns that make it to the auditor's report are important. Don't ignore them. If the report says "there are significant estimates", listen!
 
-### The Mnagement Letter
+### The Management Letter
 
 - The management letter is a statement from the manager saying that there is no fraud. It usually includes statements about:
   - the __internal control system__
