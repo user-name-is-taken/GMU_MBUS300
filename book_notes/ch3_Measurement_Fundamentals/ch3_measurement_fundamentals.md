@@ -176,7 +176,7 @@
   - The FASB has guidelines on switching methods.
 
 ## Two Exceptions to the Basic principles: Materiality and Conservatism
-
+ 
 - You can depart from the 4 measurement principles if:
   - The departure is immaterial.
   - The departure errs on the conservative side.
