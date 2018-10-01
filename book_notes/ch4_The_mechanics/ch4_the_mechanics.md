@@ -117,13 +117,36 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 ## The Journal Entry
 
 - __Journal entries__: A short-hand way to represent which accounts are affected by a transaction and how they are affected.
-  - __debit__: cash inflows
+  - __debit__: increases to the left side of the accounting equation, or decreases to the right side. (&uarr;&larr; || &darr;&rarr;)
     - on the left side of a journal entry
-  - __credit__: cash outflows
+  - __credit__: increases to the right side of the accounting equation, or decreases to the left side. (&darr;&larr; || &uarr;&rarr;)
     - on the right side of a journal entry
 
-- __Compound journal entries__ involve more than 2 accountss
+- __Compound journal entries__ involve more than 2 accounts
 
 ### The Double Entry System
+
+- The __double entry system__ maintains the equality of the accounting equation by ensuring `journal entry debits == journal entry credits.`
+  - conceptually, the double entry system means a transaction is an exchange from one account to another
+
+### The Journal Entry Box
+
+- They have a memory thing here. Just remember:
+  - (&uarr;&larr; || &darr;&rarr;)?debit:credit;
+
+- components of a transaction:
+  - the accounts affected
+  - the amount of the affect
+    - if it's positive or negative
+
+### Journal Entries and the Accounting Equation: Examples
+
+- figure 4-8 has some examples.
+- just remember, the accounting equation is always maintained.
+
+### T-Accounts
+
+- __T-accounts__ are like journal entries but for only 1 account.
+  - these obviously don't have to balance; but like journal entries debits go on the left, credits on the right.
 
 - 
