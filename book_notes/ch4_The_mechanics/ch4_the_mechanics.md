@@ -149,4 +149,27 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 - __T-accounts__ are like journal entries but for only 1 account.
   - these obviously don't have to balance; but like journal entries debits go on the left, credits on the right.
 
+- note, T-accounts start with a balance
+
+#### An example
+
+- see figure 4-11
+
+#### Balance Sheet
+
+- The ending amounts form T-accounts should be the same as the amount on the balance sheet for that account.
+- The begninning amount on T-accounts should be the same as the amount on the last period's balance sheet for that account.
+
+- __permanent__ accounts accumulate their balance from one period to the next
+  - assets, liabilities and shareholders' equity are permanent 
+
+- __Temporary__ accounts begin the next period with a 0 balance
+  - revenue, expense, and dividends are temporary because they are converted to retained earnings
+
+#### Income Statement
+
+- The income statement for a period is revenues - expenses
+
+#### Statement of Shareholders' Equity
+
 - 
