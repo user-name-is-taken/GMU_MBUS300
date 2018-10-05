@@ -172,4 +172,57 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 
 #### Statement of Shareholders' Equity
 
+- All accounts that are Shareholders' equity are reported here
+  - ex: common stock, net income (which becomes retained earnings)
+
+#### Statement of Cash Flows
+
+- The statement of cash flows classifies cash inflows and outflows as operating, investing, or financing then places them on the statements.
+
+## Recognizing Gains and Losses
+
+- You need to recognize a gain or loss when you sell an investment or noncurrent asset at a price that doesn't match the amount it's been carried at on the balance sheet.
+  - `The recognized amount = proceeds - carrying amount`
+
+- Recognized values are recorded in accounts named "gain on..." or "loss on..."
+  - for example "gain on sale of stock investments"
+
+- note, gains and losses usually affect the income statement *and* the statement of cash flows.
+
+## Periodic Adjustments
+
+- The __accrual system of accounting__ dictates that expenses and revenues can be recorded against the transactions that incur them over time with periodic adjustments if the transactions that incur the expenses and revenues are spread over time.
+  - Unlike normal transactions, __periodic adjustments__ aren't linked to a visible, document-driven exchange transaction. The visible, document-driven exchange either already happened or hasn't happened yet, but the periodic adjustments are being spread out to match corresponding expenses and revenues.
+
+- examples of using periodic adjustments in the accrual system of accounting:
+  - Recognizing net-income at period (year) end: No transaction happens when net income is recognized, but income is recognized and revenues are matched to expenses incurred to generate them.
+  - Recognizing interest on a savings account as it is earned
+  - recognizing depreciation of machinery as it ages
+
+- 3 types of periodic adjustments:
+  - accruals
+  - deferrals
+  - revaluations
+
+### Accruals
+
+- __Accruals__ build up over time.
+  - to accrue is to accumulate gradually
+
+- wages and interest can accrue
+
+#### Accrued Wages
+
+- In the *Accrual based income statement*: if an employee works, but doesn't get paid until the end of the month, the system records that they owe the employee money in a wages payable.
+  - The *cash based Statement of cash flows* on the other hand doesn't show anything when company owes employees money for hours worked.
+
+#### Accrued Interest
+
+- In the accrual system, interest is recorded as the corresponding periods pass even if the interest and pricipal is paid in one lump sum at the beginning or end.
+  - For example If I get a load for 5 years at 10% yearly interest, each year I'll record that 10 % even If I pay all the interest at the end.
+
+- Remember accrual based accounting uses periodic adjusting to match revenues and expenses.
+
+#### Deferrals
+
 - 
