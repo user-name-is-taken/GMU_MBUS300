@@ -161,7 +161,7 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 - The begninning amount on T-accounts should be the same as the amount on the last period's balance sheet for that account.
 
 - __permanent__ accounts accumulate their balance from one period to the next
-  - assets, liabilities and shareholders' equity are permanent 
+  - assets, liabilities and shareholders' equity are permanent
 
 - __Temporary__ accounts begin the next period with a 0 balance
   - revenue, expense, and dividends are temporary because they are converted to retained earnings
@@ -206,7 +206,7 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 
 ### Accruals
 
-- __Accruals__ build up over time.
+- __Accruals__ build up over time and you record it as it builds; then after it's built up, assets are exchanged.
   - to accrue is to accumulate gradually
 
 - wages and interest can accrue
@@ -223,6 +223,48 @@ Assets = Liabilities + (Contributed Capital + Retained Earnings)
 
 - Remember accrual based accounting uses periodic adjusting to match revenues and expenses.
 
-#### Deferrals
+### Deferrals
 
-- 
+- __deferral__: assets exchange hands, but adjusting entries of expense or revenue recognitions that are deferred until the end of the period.
+  - aka cost expiration
+
+#### Asset Capitalization and the Matching Principle
+
+- According to the __matching principle__ Revenues that are recognized in the current period are ___expensed__ (recorded as expenses), revenues that are expected to be recognized in future periods are __capitalized__ (recorded as assets).
+  - When capitalized revenues are recognized, they are converted to expenses by recording a cost expiration adjusting journal entry.
+  - Expected revenues are capitalized because, like assets, they are expected to produce revenues in the future.
+  - remember, the matching principle states that the cost of assets should be matched against the benefits of the assets when the benefits happen.
+
+#### Expense or Capitalize Examples
+
+- Current expenses can be accrued if they're not due until the next period, but are used in the current period (like wages)
+- Current expenses like utilities can be capitalized and deferred if they're due in this period, but not used until future periods.
+
+- Supplies, prepaid expenses and inventory are often capitalized and deferred because they're used over time.
+  - supplies are expensed to recognized use of supplies
+  - inventory is expensed to cost of goods sold
+  - prepaid expenses are expensed to a specific account (like insurance expense)
+
+- Unearned (Deferred) revenues are deferred because you get cash up-front. They're recognized when you earn the revenue.
+  - unearned revenues are recorded in the liability account, unearned revenues
+
+- Property, plant, and equipment is often deferred and depreciated over its useful life.
+  - This depreciation is credited to the __contra account__ accumulated depreciation.
+  - The __book value__ = original value - accumulated depreciation
+
+- Intangible assets (like copyrights) are amortized as property, plant and equipment are depreciated.
+- __straight-line depreciation__ means assets depreciate with a constant slope. This is usually used for intangible assets, but there are other methods for tangible assets.
+
+### Revaluation Adjustments
+
+- __revaluation adjustments__ are an example of adjusting entries that aren't simply accruing or deferring. In revaluation, you adjust the value of an asset for market conditions.
+
+## Reporting Difficulties Faced by Multinational Companies
+
+- __multinational__ companies own subsidiaries in foreign countries.
+- Multinational companies file a consolidated set of financial statements which is difficult and costly.
+
+- multinational companies face these problems:
+  - the monitary basis is different (dollars vs euros)
+  - The accounting standards are different (principles based IFRS vs rules based GAAP)
+  - language (English vs French...)
