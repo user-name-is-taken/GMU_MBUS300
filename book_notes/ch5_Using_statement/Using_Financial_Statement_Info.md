@@ -249,8 +249,91 @@
   - present going concern issues
 
 - Remember, small private companies aren't required to be audited.
-- The accounting community is considering not using GAAP for small businesses because it's too complex. They might use IFRS or "Little GAAP"
+  - The accounting community is considering not using GAAP for small businesses because it's too complex. They might use IFRS or "Little GAAP"
 
 ### Significant Transactions and Important Segments
+
+- Examples of transactions and events that could affect earnings and cash flows:
+  - acquisitions
+  - dicontinuance or disposal of a business segment
+  - litigation
+  - major write-downs of receivables or inventories
+  - tender offers (share buybacks)
+  - extraordinary gains or losses
+  - changes of the accounting methods
+
+- You can find these events and transactions in the footnotes of the annual report.
+
+- Financial affects of events and transactions can be seen in the financial statements, primarily the income statement.
+- __Earnings persistence__: the extent to which an income statement item reported in the current period can be expected to reflect future income levels.
+- Companies report revenue, profit, and assets of individual __business segments__ to give investors a more detailed depiction of the business.
+
+### Financial Statements and Footnotes
+
+- Different types of business's financial statements and related footnotes will be very different. For example:
+  - retailers sell inventory, so inventory turnover is king
+  - banks loan capital, so receivables turnover is king
+  - Software companies perform R&D, so return on assets and other ratios that tell how effective they are at creating products from R&D are king.
+    - Mergers and Aquisitions are also important here
+  
+## Assessing Earnings Quality
+
+- __Earnings quality__: how much reported financial statements deviate from the true financial condition and performance of the company.
+- Here they discuss 4 ways managers often manipulate financial statements
+
+### Overstating Operating Performance
+
+- __Overstating performance__ makes financial statements look good
+- Often smaller companies or companies facing financial difficulties will accelerate the recognition of revenues or defer the recognition of expenses to attract capital investments
+- *Business week* wrote "Earnings Hocus-Pocus" about how accounting practices become "aggressive" when companies face economic challenges
+
+### Taking a Bath
+
+- To __take a bath__ means to over-report poor performance in poor years to hide a downward trend over time.
+  - This can also be used to hide future losses, like uncollectable receivables
+  - Companies will also match all their expenses against the bath period, instead of properly accruing them
+
+### Creating Hidden Reserves
+
+- In years of good performance, earnings are under recorded to create __hidden reserves__. Hidden reserves are then used to cushion poor performance.
+  - This abuses the conservatism principal
+
+- The techniques of this are the same as taking a bath.
+
+### Employing Off-Balance-Sheet Financing
+
+- __off-balance-sheet financing__: Financing activities that aren't reported on the balance sheet
+  - makes a company look less risky
+  - You can sometimes find this in the footnotes. Look for:
+    - Accounting methods choosen.
+      - IFRS is principles based, GAAP is rules based. Remember to look at overseas subsidiaries.
+    - which areas are sensitive to manager's judgment and estimates
+
+- Put yourself in the manager's shoes.
+  - Investigate compensation incentives, the economic environment, debt covenants and the industry.
+
+## Annual Report Information, Company Value, and projected Financial Statements
+
+- The stock price is the best indicator of a company's future performance because it reacts to current news about the company.
+- Financial statements have the largest impact on stock price.
+
+- Best practices for predicting future stock price with financial ratios:
+  - predict future sales
+  - predict future profit margin
+  - Based on sales predictions, estimate the level of assets necessary to support that level of sales
+  - Choose a target financing mix (liabilities vs equity)
+
+- These predictions are based on:
+  - the information in the *Reading and Studying the Financial Statements and Footnotes* section namely:
+    - past performance
+    - current events (transactions...)
+    - company segments
+  - other information
+    - company financing activities: dividends, equity issuances, stock buybacks
+    - receivables/liabilities
+
+- You can also predict future cash flows and shareholder's equity
+
+## International perspective: Financial Statement Analysis in an International Setting
 
 - 
