@@ -130,4 +130,137 @@
 
 ## Selling Inventory: Which Cost Flow Assumption?
 
-- 
+- To calculate cost of goods sold you must assign a value to the items sold from the values of items purchased.
+
+- Use one of the following 3 cost flow assumptions to assign values to inventories sold:
+  - averaging
+  - first-in, first-out (FIFO)
+  - last-in, last-out (LIFO)
+    - IFRS prohibits this.
+
+### Specific Identification
+
+- With perpetual inventory or with large-ticket items you can use the __specific identification__ method. In specific identification, identify which items were sold and which remain, then record the actual cost of the item when you sell it.
+
+- In these cases you simply apply the formula with the actual values:
+  - Cost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory
+
+- The journal entries for selling inventories are:
+  - Debit cash (+A), credit sales (R, +RE)
+  - Debit COGS (E, -RE), credit Inventory (-A)
+
+- In specific identification managers can manipulate net income by selling cheaper or more expensive inventories at a certain times.
+
+### Three Inventory Cost Flow Assumptions: Average, FIFO, and LIFO
+
+- When you can't specifically assign costs to goods sold, make one of the following cost flow assumptions.
+
+- __Average assumption__: the cost assigned to goods sold is the average cost of units available for sale at the time of sale.
+  - average cost of units available = total inventory $ / inventory count
+
+- __First-in, first-out (FIFO) assumption__: the oldest available inventory costs are assigned to COGS.
+
+- __Last-in, First-out (LIFO) assumption__: the most recent inventory costs are assigned to COGS.
+
+### Inventory Cost Flow Assumptions: Effect on the Financial Statements
+
+- __LIFO conformity rule__: If a company uses LIFO for calculating its tax liability, it must also use LIFO for preparing its financial statements.
+  - This is because inflation causes LIFO to result in lower estimates.
+  - This is a federal income tax law.
+
+### Choosing an Inventory Cost Flow Assumption: Trade-offs
+
+- breakdown: 33% LIFO, 63% FIFO, 23% average
+- Many companies, especially international companies, use a mix of these.
+- The inventory cost flow assumption doesn't necessarily reflect how the inventory is physically sold.
+- Changing cost flow assumptions is difficult as it violates the consistency principle. To change assumptions you must: get auditor approval, disclose it in footnotes, restate prior year's statements.
+
+- cost flow assumption trade-offs include:
+  - accuracy of income and asset measurement
+  - economic consequences
+
+#### Income and Asset Measurement
+
+- FIFO matches sales revenues to the most old expenses, leaving new inventory expenses on the balance sheet. This produces the most current measure of inventory on the balance sheet.
+
+- LIFO matches against new expenses, leaving old expenses in the account. Because of this, over time, LIFO can give rise to grossly outdated inventory costs. These inaccuracies are reflected in:
+  - net worth
+  - inventory turnover
+
+#### Economic Consequences
+
+- cost flow assumptions affect:
+  - income taxes and liquidity problems
+  - bookkeeping costs
+  - LIFO liquidations and purchasing practices
+  - debt and compensation contracts
+  - the capital market
+
+##### Income Taxes and Liquidity
+
+- Higher cost of inventories (due to inflation) in LIFO yield lower net income, and hence, lower taxes.
+- On the flip side, FIFO makes net income look higher creating __paper profits__ that make the company look good, but don't reflect actual cash flows and can hide liquidity problems.
+
+##### Bookkeeping Costs
+
+- LIFO is generally more difficult for bookkeepers, and hence more costly.
+  - LIFO is harder because companies might have to cary old inventories for long periods of time.
+
+##### LIFO Liquidation and Inventory Purchasing Practices
+
+- To record against old inventories, companies using LIFO must reduce their total amount of inventory. As discussed, this causes higher net income. Companies will do this when the selling price of those inventories goes down to match low selling price to low buying price. While not fraudulent, this is misleading.
+- To do this LIFO inventory trick, companies must have a reserve of inventories. Low inventory turnovers, with large amounts of inventories can indicate inventory reserves.
+
+##### Debt and Compensation Contracts
+
+- The higher levels of net income reported by FIFO are attractive to managers because:
+  - manager's salaries are sometimes based on net income
+  - debt covenants are sometimes based on net income
+
+- Remember, FIFO only produces higher net income when prices of goods going up.
+
+##### The Capital Market
+
+- The higher levels of net income reported by FIFO put a company in a better financing position because:
+  - higher net income can improve credit rating, higher credit rating can mean better terms on loans.
+  - higher income can allow the company to sell stocks for a higher price
+    - This is debated.
+
+- The benefits of FIFO come at the loss of LIFO tax savings.
+- Companies that use LIFO must report what their income would have been under FIFO.
+
+##### The LIFO Reverse: A User Perspective
+
+- __LIFO reserve__ = FIFO assumption net income - LIFO assumption net income
+- you can use the above formula to calculate any of the numbers in it.
+- By calculating the FIFO net income, you can calculate how much tax would have been if a LIFO company used FIFO. From this, you can figure out how much the LIFO company saves in taxes by using LIFO.
+
+- You can figure out what LIFO a company's FIFO net income would be if they switched to FIFO in the previous period by multiplying the change in the LIFO reserve (from last year to this year) by 1 minus the effective tax rate, and then adding that amount to net income reported under LIFO.
+  - LIFO Net Income + Increase in LIFO Reserve * (1 - Tax Rate) = FIFO Net Income
+
+## Ending Inventory: Applying the Lower-of-Cost-or-Market Rule
+
+- Inventory is recorded at the Lower-of-Cost-or-Market rule dictates.
+
+- If the cost of inventory was more than the current market value, the inventory must be adjusted.
+  - One way to adjust inventory is to debit an Inventory loss (Lo, -RE) against an inventory (-A) credit.
+
+- market value is different in GAAP and IFRS:
+  - GAAP: the market value is the replacement cost, or the cost of replacing the inventory
+  - IFRS: the market value is normally the realizable value, the amount at which hte inventory could be sold.
+
+- In IFRS, if the value of written-down inventory increases, an __inventory recovery__ is recorded to bring the value back to its original cost.
+  - GAAP doesn't allow this.
+
+## The Lower-of-Cost-or-Market Rule and Hidden Reserves
+
+- The Lower-of-Cost-or-Market rule allows companies to create hidden reserves by adjusting inventories down in periods when net income is high, then selling the inventories for a large gain later.
+- Companies have a lot of freedom in reducing the value of inventories because market value is subjective.
+- Even though the conservatism principle can be abused to create hidden reserves, it's better than companies being able to overstate income.
+
+## International Perspective: Japanese Business and Inventory Accounting
+
+- Japaneese companies act more cohesively than American companies. This allows them to better plan inventory stocking, and reduce how much inventory they carry (even implementing JIT inventory). Because they have less inventory managing it isn't that important and they just use the average assumption (not LIFO or FIFO).
+  - The companies buy stock in each other to prove allegance to the group.
+
+- Japan uses IFRS
