@@ -41,7 +41,16 @@
 
 ## Long-Lived Asset Accounting: General Issues and Financial Statement Effects
 
-- __amortization__: the process of expensing long-lived assets over the course of their useful life.
-  - This is derived from the matching principle that states revenues should be recorded against expenses.
-  - s
-  
+- __amortization__: the process of expensing capitalized long-lived assets over the course of their useful life using periodic adjusting entries.
+  - Amortization derived from the matching principle that states revenues should be recorded against expenses from the same period.
+  - __depreciation__: ammoritization of a fixed asset
+
+- Amortization process:
+  - First, capitalize the cost of acquiring the long-lived asset in the period of acquisition.
+    - Debit equipment (+A), Credit Cash (-A)
+  - Then, amortize (expense) the long-lived asset asset over the course of its useful life with adjusting journal entries.
+    - There are various methods for calculating how much to record in adjusting journal entries.
+      - In the __straight line method__:
+        - each adjusting journal entry's value is the same amount.
+        - adjusting journal entry amount = capitalized cost / number of periods
+- 
