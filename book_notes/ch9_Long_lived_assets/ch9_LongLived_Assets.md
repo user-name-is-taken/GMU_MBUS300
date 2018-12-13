@@ -253,4 +253,124 @@
 
 ## Disposal: Retirements, Impairments, Sales, and Trade-Ins
 
-- 
+- Long-lived assets can be disposed of through one of these processes: retirement, sale or trad-in.
+
+- All asset disposal processes include the following steps:
+  - The asset's depreciation is recorded to date of the disposal
+  - The cost and accumulated depreciation (or *net cost*, in intangibles and natural resources) of the long-lived asset are removed from the books
+    - This can get complicated when companies dispose of assets mid-period, but we don't cover that.
+  - any receipt or payment of cash or other assets is recorded when the asset is disposed of
+  - A gain or loss is recognized on the exchange in the amount of the difference between the book value of the asset and the net value of the receipt.
+    - This is recorded in the "other revenues and expenses" section of the income statement.
+  
+- Note, depending on the depreciation methods, you might have to record a depreciation expense in the period of disposal.
+
+### Retirement and Impairment of Long-Lived Assets
+
+- When long-lived assets are __retired__ (abandoned) their original cost and accumulated depreciation are simply written off the books. If the asset isn't fully depreciated, a loss is recognized.
+  - Accounts affected by retirements:
+    - if not fully depreciated, debit Loss on Disposal of ... (Lo, -RE) for the remaining book value of the asset
+      - obviously book value because it's not being salvaged
+    - Debit Accumulated Depreciation (+ A)
+    - Credit Equipment (- A) for the capitalized cost of the asset
+
+- Reasons to retire an asset: cost control, obsolescence, lack of a market, closure by a federal body, etc.
+
+- Accounting for retirements is subjective and controversial.
+  - GAAP requires the value of the asset be "permanently impaired"
+  - Recent guidelines leave management leeway on the amount and timing of write-downs.
+  - Like anything that affects net income, Asset write downs can be used for fraud.
+  - Under IFRS, *impairment* changes on property, plant, and equipment are also recorded and reduce earnings. However, the criteria for when such charges should be recorded differ from U.S. GAAP, and the result is that under IFRS more frequent, but smaller, impairment charges are recorded. Also, under IFRS, recoveries from impairment charges recorded in prior periods serve to boost asset value and net income. These recoveries are not recognized under U.S. GAAP.
+
+### Sale of Long-Lived Assets
+
+- Selling long-lived assets is like retiring them, but you also record the cash received fro the exchange
+  - Accounts affected by sales:
+    - debit Cash (+A) for the cash received from the sale
+    - Debit Accumulated Depreciation (+A) for the accumulated depreciation
+    - Debit a Loss or credit a Gain on the Asset (Lo, +/-RE)
+    - Credit the capitalized asset (-A)
+  
+### Trade-Ins of Long-Lived Assets
+
+- With a __trade-ins__, two or more long-lived assets are exchanged, and cash is often received or paid.
+- This book only covers exchanges of __dissimilar assets__, exchanges of similar assets are covered in intermediate accounting.
+
+- Exchanged assets can be evaluated at either:
+  - the FMV of the asset given up
+    - This is usually subjective, requiring research. The asset's list price may not be accurate.
+  - the FMV of the assets received
+    - This is usually easier to determine.
+
+- Accounts affected by exchanges of dissimilar assets:
+  - Both long-lived capitalized asset's account (A)
+  - debit the Accumulated Depreciation (+A)
+  - debit or credit the Gain or Loss on the exchange (Lo, RE)
+  - record the Cash paid or received (A)
+
+- Trade-ins put you in a good bargaining position with car dealers
+
+## Intangible Assets
+
+- unrecognizable *intangibles*: features about a company that are valued by the market but ignored by the balance sheet.
+  - examples: branding, supplier and customer relationships, company process and procedure assets, technical knowledge, etc.
+
+- "price-to-book" ratio = company market value / company book value
+  - used to measure intangibles
+
+- Neither GAAP nor IFRS have good practices for recognition of intangibles because the standard of evidence for recognizing an asset is to high.
+
+- This section will discuss recognizable intangibles.
+  - recognizable intangibles must afford a company objectively measurable rights, privileges, and benefits of possession.
+  - Evaluating intangibles is inherently less certain than evaluating tangibles.
+  - examples: copyrights, patients, trademarks, trade names, licenses, and goodwill
+  - When acquiring capitalize the cost of the intangible.
+  - categories of intangibles:
+    - definite life: patents, copyrights, trademarks
+    - indefinite life: goodwill
+      - not amortized, but could be subject to an impairment write-down.
+
+### Copyrights, Patients, and Trademarks
+
+- copyrights:
+  - cover literary, musical or artistic works
+  - last 70 years after the creator dies
+
+- Patents:
+  - are granted by the U.S. Patent office
+  - give the holder exclusive rights to use, manufacture, or sale of a product or process for a period of 20 years
+
+- trademarks:
+  - a word, phrase, or symbol that distinguishes or identifies a particular enterprise or product.
+  - granted by the U.S. Patent office
+  - lasts 10 years, can be renewed indefinitely
+
+### The Cost of Developing Computer Software
+
+- *Statement of Financial Accounting Standards No. 86* states: the cost of developing computer software should be amortized over the software's economic life.
+  - Before this, these costs were expensed, resulting in low net income
+
+### Goodwill
+
+- When purchasing a company for more than the company's FMV of their assets and liabilities, record that excess cost in goodwill.
+- CH 8 discussed this.
+
+### Organizational Costs
+
+- __organizational costs__ are costs a company incurs to start operations.
+  - Ex: fees of underwriting, legal and accounting services, licenses, titles, and promotional expenditures.
+
+- Although organizational costs are clearly incurred to generate future revenues, matching them against any specific revenue is impossible.
+  - The only correct thing would be to match the organizational cost against the company's entire useful life, but the going concern assumption states this life is indefinite.
+  - professional standards resolve this by requiring organizational costs to be expensed and providing guidelines on how to do this.
+
+### Research and Development (R&D) Costs
+
+- R&D costs are incurred to produce future revenues through the creation of a new product or process.
+- It's often difficult to match specific R&D costs to specific products or processes. Sometimes R&D provides indirect and unforseen benefits.
+
+- The FASB published *SFAS No. 2* in 1974 requiring R&D costs be expensed in the year incurred, rather than capitalized and amortized as intangible assets.
+  - This makes things less subjective, but doesn't follow the matching principle
+  - This discourages R&D because the impacts on the financial statements.
+
+## IFRS vs. US GAAP
