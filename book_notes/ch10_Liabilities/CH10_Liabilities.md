@@ -105,4 +105,134 @@
 
 ## Determinable Current liabilities
 
+- Liabilities can be determinable or contingent depending on how certain future payments are.
+
+- __determinable current liabilities__ can be precisely measured with a fairly certain date of payment.
+  - examples of determinable liabilities: accounts payable, short-term debts, dividends payable, unearned revenues, third-party collections, and accrued liabilities
+
+### Accounts Payable
+
+- Accounts payable (aka trade accounts payable) are dollar amounts owed to others for goods, supplies, and services purchased on __open account__.
+  - Accounts payable transactions are frequent and informal
+  - Accounts payable often result from the time lag between receiving a payment and fulfilling an obligation.
+
+- Small businesses use accounts payable a lot.
+- high amounts of accounts payable can affect solvency
+
+### Short-Term Debts
+
+- Short term debts (aka short-term borrowings) includes:
+  - __Commercial paper__: short-term notes (30 - 270 days) issued by companies with good credit ratings to other companies
+  - __Lines of credit__: money borrowed from a bank, with interest due on the outstanding balance
+  - current maturities of long-term debts
+
+- short-term debts are indicative of solvency, and hence described extensively in the foot notes.
+
+#### Short-Term Notes
+
+- Short-term notes include:
+  - __Maturity date__: when the loan is due
+  - __Interest__: the difference in the cash the borrower received and the balance due (*face amount*) to the lender
+
+- accounts affected when borrowing short-term notes:
+  - debit Cash (+A)
+  - debit Discount on Notes Payable (-L)
+    - This contra account represents the interest that's not yet owed, but will be in the future.
+  - credit Notes Payable (+L)
+
+- Accounts affected when accruing the interest on short-term notes:
+  - Debit Interest Expense (E, -RE)
+  - Credit Discount on Notes Payable (+L)
+
+#### Current Maturities of Long-Term Debts
+
+- Current Maturities of long-term debts are installments (payments portions) of long-term debts that are due within a year, or the current operating cycle, whichever is longer.
+  - this definition of current is the same for current assets
+
+- Current Maturities of long-term debts are recorded on the balance sheet as current liabilities.
+- The non-current portions of long-term debts remain as long-term liabilities.
+
+### Dividends Payable
+
+- Dividends are:
+  - recorded when declared.
+  - due in the current period.
+
+### Unearned Revenues
+
+- __Unearned revenue__: revenues received before contracted services are performed.
+  - aka: deferred revenue or receipt in advance
+
+- Unearned revenues are liabilites because:
+  - they require a service to be performed
+  - the earnings process isn't complete when the revenue is received, which is a criteria for revenue recognition.
+
+- Unearned revenues are current if they will be earned with current assets.
+- examples: gift cards, cupons, tickets, subscriptions, discounts from membership programs, and returnable deposits.
+
+- Accounts affected by creating unearned revenues (cash is received):
+  - Debit cash (+A)
+  - Credit Unearned Revenue (+L)
+
+- accounts affected when revenue is earned:
+  - Debit Unearned Revenue (-L)
+  - Credit Service Revenue(R, +RE)
+
+### Third-Party Collections
+
+- Third-Party collections are recorded when an organization collects money on behalf of another entity. The collected cash is a liability.
+  - This liability is often current.
+
+- ex:
+  - taxs:
+    - sales tax
+    - employee social security withholdings
+    - employee income tax withholdings
+  - other:
+    - union dues
+    - insurance premiums
+  
+- Accounts affected by collection:
+  - Debit cash (+A)
+  - Credit the witholding account (+L)
+  - Credit the account the cash is being withheld from (R, +RE)
+
+- Accounts affected upon paying the withholding to the third-party:
+  - Debit the withholding account (-L)
+  - Credit Cash (-A)
+
+### Income Tax liability
+
+- __Income tax__: A percentage (~35%) of income paid to the government.
+- At the beginning of the year, corporations estimate how much income tax they must pay and record it as a liability. This liability is usually paid off quarterly.
+
+### Incentive Compensation
+
+- __Incentive compensation__: linking employee benefits to performance metrics
+  - common benefits:
+    - stock
+    - cash
+  - Common metrics:
+    - net income
+    - stock price (market value)
+
+- Managers and executives often get incentive based stock options and bonuses, while lower level employees have the opportunity to participate in profit sharing.
+- There's often a cap on how large these benefits can be
+- Incentive compensations are current liabilities because they are paid at the end of the period when the metrics can be evaluated.
+
+- Accounts affected by accruing incentive compensation:
+  - Debit Bonus Expense (E, -RE)
+  - Credit Bonus Liability (+L)
+
+- Accounts affected by paying incentive compensation:
+  - Debit Bonus Liability (-L)
+  - Credit Cash (-A)
+
+- Managers sometimes manipulate the metrics through: operating decisions, choices of accounting methods, estimates, assumptions, the time of accruals, or even intentional misstatements.
+  - for example, overlooking expenses, postponing R&D ...
+  - managers have an incentive to manipulate the metrics.
+  - remember, accounting manipulations normally reverse themselves over time, and are seen as unethical.
+
+## Contingencies and Contingent Liabilities
+
 - 
