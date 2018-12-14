@@ -155,7 +155,7 @@
 ### Dividends Payable
 
 - Dividends are:
-  - recorded when declared.
+  - recorded when declared. (this might be wrong)
   - due in the current period.
 
 ### Unearned Revenues
@@ -234,5 +234,62 @@
   - remember, accounting manipulations normally reverse themselves over time, and are seen as unethical.
 
 ## Contingencies and Contingent Liabilities
+
+- __Contingency__: "an existing condition, situation, or set of circumstances involving uncertainty as to possible gain or loss to an enterprise that will ultimately be resolved when one or more future events occurs or fails to occur." (FASB)
+  - __Gain contingency__: "possible gain" resulting in a decrease in liabilities or increase in assets
+  - __Loss contingency__: "possible loss" resulting in an increase in liabilities or decrease in assets.
+
+### Contingent Liabilities: A Scenario
+
+- 3 ways to handle contingencies:
+  1. Ignore them
+     - if auditors allow this option without disclosing it in their notes, they can be liable for it.
+     - This choice isn't conservative
+     - Management might have an incentive  to do this, but it's fraud.
+  2. Disclose them in the footnotes
+     - Disclose all the information about the contingency.
+     - This won't affect reported financial statements.
+  3. recognize (accruing) them and describe them in the footnotes
+     - Accounts affected by accruing:
+       - Debit contingent Loss (or gain) (Lo, -RE)
+       - Credit contingent liability (+L)
+     - Accounts affected by paying:
+       - Debit Contingent Liability (-L)
+       - Credit Cash (-A)
+     - Contingent gain or loss affects net income, which is adjusted to shareholder's equity.
+       - Remember, management has incentives to manipulate income
+     - Contingent liability Current if payments are made with current assets
+     - This might look like the contingency is probable.
+     - Accruing in the current period is conservative for contingent losses.
+     - accruing in the current period releaves you from accruing in future periods.
+
+### Accounting for Contingencies
+
+- Accounting for contingencies depends on: if it's a gain or loss contingency, and how probable the contingency is to materialize.
+  - This info is from FASB standard No. 5 "Accounting for Contingencies"
+
+#### Gain contingencies
+
+- This flow chart describes accounting for contingent gains.
+- Note contingent gains are almost never Accrued on the financial statement, and are only rarely disclosed in footnotes.
+- Contingent gains are only recognized when realized. This is consistent with the objectivity principle and the conservatism concept by avoiding subjective estimates.
+
+![Gain contingencies](./ContingentGainChart.png)
+
+#### Loss Contingencies
+
+- Contingent losses are more often disclosed than contingent gains, because of conservatism.
+
+![Loss contingencies](./ContingentLossChart.png)
+
+- Probabilities and (sometimes) dollar amount estimates are usually assessed by outside experts
+
+- when dollar amount estimates are made, ranges of certainty for the dollar amounts are included in the footnotes
+  - If an estimate can't be agreed on, the lowest amount in the range is used.
+
+- In IFRS, "best estimate" means "reasonable estimate", liabilities are recorded at the present value of future outflows, and the liability is referred to as a "provision"
+- examples of highly probable contingent losses: environmental fees, bad debts, warranties
+
+#### Warranties: Accrued Loss Contingencies
 
 - 
