@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - ./docs/AppendixA_Time_value/AppendixA_money's_time_value.md
+  - ./docs/ch1_overview_of_fin_acct/ch1_overview.md
+  - ./docs/CH2_Financial_statements_details/ch2_a_closer_look_at_the_Financial_statements.md
+  - ./docs/ch3_Measurement_Fundamentals/ch3_measurement_fundamentals.md
+  - ./docs/ch4_The_mechanics/ch4_the_mechanics.md
+  - ./docs/ch5_Using_statement/Using_Financial_Statement_Info.md
+  - ./docs/ch6_current_assets/current_asset_classification_cash_accounts_receivable.md
+  - ./docs/ch7_Inventory/7Merchandise_Inventory.md
+  - ./docs/ch9_Long_lived_assets/ch9_LongLived_Assets.md
+  - ./docs/ch10_Liabilities/CH10_Liabilities.md
+  - ./docs/ch12_Shareholder_equity/ch12_Shareholder_equity.md
